@@ -1,5 +1,3 @@
-This was built as a college project.
-
 # NetSniffer
 
 A modular network packet analysis tool with AI-powered insights.
